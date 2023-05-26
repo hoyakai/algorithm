@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <iostream>
-//        개미
+//        개
 int main()
 {
     int w,h,a,b,t,i,n=2;
