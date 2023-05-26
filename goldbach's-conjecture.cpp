@@ -42,7 +42,7 @@ int main()
 				{
 					printf("%d = %d + %d\n",n[i],j,n[i]-j);
 					a=0;
-					break;
+					break; 
 				}
 			}
 		}
