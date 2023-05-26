@@ -1,6 +1,5 @@
 #include <cstdio>
 #include <iostream>
-//        
 int main()
 {
     int w,h,a,b,t,i,n=2;
