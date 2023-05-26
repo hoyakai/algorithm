@@ -31,7 +31,7 @@ int main()
 						{
 							if(q>=0 && q<=m)
 							{
-								a=a+arr[p][q];
+								a=a+arr[p][q]; 
 							}
 						}
 		
