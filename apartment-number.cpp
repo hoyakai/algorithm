@@ -60,7 +60,7 @@ int main()
 		}
 	}
 	printf("\n%d\n",b);
-	//sort(v.begin(),v.end());
+	sort(v.begin(),v.end());
 	for(i=0;i<b;i++)
 	{
 		printf("%d\n",v[i]);
