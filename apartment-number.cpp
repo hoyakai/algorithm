@@ -3,7 +3,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-
+ 
 int n=0,a=0,b=0;
 char arr[27][27];
 
